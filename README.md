@@ -20,5 +20,5 @@
  
  <a href="[https://discord.gg/5DVhGKVf4h](https://discord.com/channels/867930080637247568/903051917142405151)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
   <a href = "diasscarla@hotmail.com"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
-  <a href="[https://www.linkedin.com/in/carla-dias-9971b7265/](https://www.linkedin.com/in/carla-dias-9971b7265/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carla-dias-9971b7265" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
